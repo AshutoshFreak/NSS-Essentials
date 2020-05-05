@@ -9,7 +9,7 @@ You need `python3` installed for these programs to work.
 `python3` comes pre-installed in most linux destros.
 
 ### Windows
-You can download `python3` by visiting the [official python website](https://www.python.org/downloads/)
+You can download `python3` by visiting the [official python website](https://www.python.org/downloads/).
 
 ### Mac OS X
 `python3` comes pre-installed in Mac OS X.

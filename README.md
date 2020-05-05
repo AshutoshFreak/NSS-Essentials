@@ -14,7 +14,7 @@ You can download `python3` by visiting the [official python website](https://www
 ### Mac OS X
 `python3` comes pre-installed in Mac OS X.
 
-### Installation
+## Installation
 ```
 git clone https://github.com/AshutoshFreak/NSS-Essentials
 cd NSS-Essentials
